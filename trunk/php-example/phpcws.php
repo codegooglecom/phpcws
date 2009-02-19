@@ -53,7 +53,7 @@ ACTION = "" METHOD = "POST">
         <td width="12%" align="right" valign=middle  class='f_two'>文字内容<BR>
         GBK编码</td>
         <td width="88%" colspan="4" class='f_one'><label>
-          <textarea name="text" cols="100" rows="3" id="name"></textarea>
+          <textarea name="text" cols="100" rows="5" id="name">据刚刚公布的《2008年中国游戏产业报告》统计，2008年中国网络游戏出版产业的产值同比又有显著提升，网络游戏的实际销售收入达183.8亿元人民币，比2007年增长了76.6%。收入远远超过传统的三大娱乐内容产业——电影票房、电视娱乐节目和音像制品发行的收入。同时，网络游戏出版产业为电信业、IT行业等带来的直接收入高达478.4亿元人民币。</textarea>
       </label></td>
     </tr>
     <tr>
